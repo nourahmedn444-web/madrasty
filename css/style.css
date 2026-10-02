@@ -1,0 +1,14 @@
+/* startheader home section */
+.header-home{
+    background-image: url(../img/download.jpg);
+}
+
+
+
+
+
+
+.touchhome{
+    background:url(../img/Path\ 62.png),url(../img/i-love-my-job-so-much_329181-2178.png);
+    background-size:cover
+}
